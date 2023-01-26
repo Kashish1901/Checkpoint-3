@@ -206,6 +206,11 @@ hr{
 	color: rgb(109,111,126);
 	font-size: 20px;
 }
+.line{
+	width: 200px;
+	height: 2px;
+	background-color: black;
+}
 .about img{
 	width: 90%;
 	height: 100%;
